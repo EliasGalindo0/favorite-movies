@@ -15,8 +15,7 @@ function Provider({ children }) {
   }, []);
 
   const contextValue = {
-    movies,
-    setMovie,
+    movies
   };
 
   return <Context.Provider value={contextValue}>{children}</Context.Provider>;

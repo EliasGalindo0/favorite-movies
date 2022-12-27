@@ -9,7 +9,6 @@ function MovieCard() {
 
   const handler = (e) => {
     setFilter(e.target.value);
-    console.log(filter);
   };
 
   return (
