@@ -1,4 +1,5 @@
 # Favorite Movies
+![Captura de Tela 2022-12-27 às 10 50 09 AM](https://user-images.githubusercontent.com/90291253/209712286-994e5dd3-1e04-4565-bb13-02fdadf394fa.png)
 
 Este projeto foi desenvolvido com a utilização de ReactJS e Context API.
 
