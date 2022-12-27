@@ -1,5 +1,0 @@
-- request:
-    url: /api/movies
-    method: GET
-  response:
-    file: movies/movies.json
