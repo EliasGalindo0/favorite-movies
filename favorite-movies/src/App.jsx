@@ -1,6 +1,6 @@
-import './App.css';
-import Provider from './Context/Provider';
-import Home from './pages/Home';
+import "./App.css";
+import Provider from "./Context/Provider";
+import Home from "./pages/Home";
 
 function App() {
   return (
