@@ -1,7 +1,5 @@
 import MovieCard from "../components/MovieCard";
 
-import "./MoviesGrid.css";
-
 function Home() {
   return (
     <div className='container'>
